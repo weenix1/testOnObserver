@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NewsAgency
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NewsAgency\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=channel
+comment1.target=void\ addObserver(Channel)
+comment2.params=channel
+comment2.target=void\ removeObserver(Channel)
+comment3.params=news
+comment3.target=void\ setNews(java.lang.String)
+numComments=4
